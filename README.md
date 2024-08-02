@@ -60,12 +60,15 @@ Top features across models were:
 The project successfully identified the best model for predicting client subscriptions, with SVM standing out in performance. The insights gained will significantly enhance the bank's marketing strategy, leading to more efficient targeting and higher conversion rates.
 
 ## Appendices
-- **Correlation Matrix**:
+**Correlation Matrix**:
+
 Provides a detailed view of the relationships between different numerical features.
 
 ![](./images/correlation-matrix.png)
+![](./images/correlation-matrix-after-optimization.png)
 
-- **Model Performance**:
+**Model Performance**:
+
 Visual representations of model performance.
 
 ![](./images/model-performance-logistic-regression.png)
@@ -73,7 +76,8 @@ Visual representations of model performance.
 ![](./images/model-performance-decision-tree.png)
 ![](./images/model-performance-svm.png)
 
-- **Feature Importances**:
+**Feature Importances**:
+
 Detailed charts showing the importance of various features across different models.
 
 ![](./images/feature-importance-logistic-regression.png)
